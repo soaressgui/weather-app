@@ -27,4 +27,5 @@ Desenvolvido com foco em praticar **HTML**, **CSS** e **JavaScript**, além do u
 ### ❌ Página de erro (404):
 ![Weather erro](https://i.imgur.com/S8nnvOu.png)
 
-
+###Link 🌤️
+https://soaressgui.github.io/weather-app/
